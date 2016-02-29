@@ -9,7 +9,7 @@ Basic API server for use with LaserBlast. Listens for hits on http://*HOSTNAME*/
 * string_decoder
 
 ## Run
-Assuming all modules are installed, just do `node api.js` from the *LaserBlast Control* directory
+Assuming all modules are installed, just do `node api.js` from the *LaserBlastControl* directory
 
 ## TODO
 * Option to cut to idle image/video and audio until next trigger.
